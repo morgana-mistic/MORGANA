@@ -1,1 +1,296 @@
+/* ==============================
+   MORGANA - ESTILOS BASE
+============================== */
 
+:root{
+
+    --bg:#0f1114;
+    --panel:#171a1f;
+    --panel2:#1f2329;
+
+    --gold:#b08a52;
+    --gold-light:#d8c19a;
+
+    --text:#ece7de;
+
+    --shadow:rgba(0,0,0,.55);
+
+}
+
+*{
+
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+
+}
+
+html{
+
+    scroll-behavior:smooth;
+
+}
+
+body{
+
+    background:
+        radial-gradient(circle at center,#25221d 0%,#151618 45%,#0c0d10 100%);
+
+    color:var(--text);
+
+    font-family:'Inter',sans-serif;
+
+    overflow-x:hidden;
+
+}
+
+/* HERO */
+
+#hero{
+
+    height:100vh;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    text-align:center;
+
+    position:relative;
+
+}
+
+.logo{
+
+    width:240px;
+
+    margin-bottom:25px;
+
+    filter:
+        drop-shadow(0 0 18px rgba(176,138,82,.25));
+
+    animation:logo 2.5s ease;
+
+}
+
+h1{
+
+    font-family:'Cinzel',serif;
+
+    font-size:4rem;
+
+    letter-spacing:8px;
+
+}
+
+.subtitle{
+
+    margin-top:15px;
+
+    color:var(--gold-light);
+
+    letter-spacing:3px;
+
+}
+
+.claim{
+
+    max-width:650px;
+
+    margin:35px auto;
+
+    font-size:1.15rem;
+
+    line-height:1.8;
+
+    font-family:'Cormorant Garamond',serif;
+
+}
+
+.btn-principal{
+
+    display:inline-block;
+
+    padding:18px 45px;
+
+    border:1px solid var(--gold);
+
+    color:var(--gold-light);
+
+    text-decoration:none;
+
+    transition:.35s;
+
+}
+
+.btn-principal:hover{
+
+    background:rgba(176,138,82,.15);
+
+    box-shadow:0 0 25px rgba(176,138,82,.30);
+
+}
+
+/* BIENVENIDA */
+
+.bienvenida{
+
+    padding:120px 30px;
+
+    text-align:center;
+
+}
+
+.contenedor{
+
+    max-width:900px;
+
+    margin:auto;
+
+}
+
+.bienvenida h2{
+
+    font-family:'Cinzel',serif;
+
+    margin-bottom:35px;
+
+}
+
+/* GRID */
+
+.grid{
+
+    max-width:1300px;
+
+    margin:auto;
+
+    padding:70px 30px;
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+
+    gap:35px;
+
+}
+
+.card{
+
+    background:linear-gradient(180deg,#20242a,#181b20);
+
+    border:1px solid rgba(176,138,82,.25);
+
+    padding:45px;
+
+    transition:.35s;
+
+}
+
+.card:hover{
+
+    transform:translateY(-8px);
+
+    border-color:var(--gold);
+
+    box-shadow:0 0 35px rgba(176,138,82,.18);
+
+}
+
+.card h3{
+
+    font-family:'Cinzel',serif;
+
+    margin-bottom:20px;
+
+}
+
+.card p{
+
+    line-height:1.8;
+
+    min-height:120px;
+
+}
+
+.card a{
+
+    color:var(--gold-light);
+
+    text-decoration:none;
+
+}
+
+/* FOOTER */
+
+footer{
+
+    text-align:center;
+
+    padding:120px 20px 60px;
+
+}
+
+footer img{
+
+    width:120px;
+
+    margin-bottom:20px;
+
+}
+
+blockquote{
+
+    margin:30px auto;
+
+    max-width:600px;
+
+    font-style:italic;
+
+    color:var(--gold-light);
+
+}
+
+.redes{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:30px;
+
+    margin:40px 0;
+
+}
+
+.redes a{
+
+    color:white;
+
+    text-decoration:none;
+
+}
+
+/* ANIMACIONES */
+
+@keyframes logo{
+
+    from{
+
+        opacity:0;
+
+        transform:translateY(40px) scale(.92);
+
+    }
+
+    to{
+
+        opacity:1;
+
+        transform:none;
+
+    }
+
+}
