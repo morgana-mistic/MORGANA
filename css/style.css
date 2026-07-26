@@ -57,10 +57,7 @@ body{
     align-items:center;
 
     text-align:center;
-background-image: url("../assets/images/portada.webp");
-background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
+
     position:relative;
 
 }
