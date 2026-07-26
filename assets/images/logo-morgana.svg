@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#373435;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#373435;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil3 {fill:none}
+    .fil1 {fill:#373435}
+    .fil0 {fill:#00A859}
+    .fil2 {fill:#01000C}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="47967.21" y="-11319.88" width="43391.66" height="45120.28"/>
+   </clipPath>
+    <clipPath id="id1">
+     <path d="M-35732.5 -3747.19c4224.97,0 7649.99,3425.04 7649.99,7650.01 0,4224.97 -3425.02,7649.99 -7649.99,7649.99 -4224.97,0 -7650.01,-3425.02 -7650.01,-7649.99 0,-4224.97 3425.04,-7650.01 7650.01,-7650.01z"/>
+    </clipPath>
+    <clipPath id="id2">
+     <rect x="4660.21" y="8157.35" width="11387.66" height="7417.94"/>
+    </clipPath>
+     <clipPath id="id3">
+      <rect x="4660.21" y="8157.35" width="11387.66" height="7417.94"/>
+     </clipPath>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image id="yo_x0020_como_x0020_logo_x0020_morgana..png" x="47967.21" y="-11319.88" width="43391.66" height="45120.28" xlink:href="logo-morgana_Images\logo-morgana_ImgID1.png"/>
+  </g>
+  <circle class="fil0 str0" cx="70936.86" cy="15004.72" r="22100"/>
+  <g id="_1906680444768">
+   <circle class="fil1 str1" cx="-35732.51" cy="3902.81" r="7650"/>
+   <g style="clip-path:url(#id1)">
+    <image id="logo_x0020_redondo_x0020_cobre.png" x="-43574.79" y="-3939.47" width="15684.56" height="15684.56" xlink:href="logo-morgana_Images\logo-morgana_ImgID2.png"/>
+   </g>
+  </g>
+  <g id="_1906680444576">
+   <g style="clip-path:url(#id2)">
+    <image id="LOGO_x0020_MORGANA.png" style="clip-path:url(#id3)" x="4350.77" y="6563.34" width="12556.88" height="12728.22" xlink:href="logo-morgana_Images\logo-morgana_ImgID3.png"/>
+   </g>
+   <path class="fil2" d="M5743.02 15575.29c23.71,-784.5 195.95,-71.07 1182,-192.33 280.52,-34.5 334.78,-211.93 746.27,81.03 6.4,4.56 1716.74,10.15 2019.05,111.3l-3947.32 0zm4223.01 0c332.71,-23.12 902.33,-63.52 1001.83,-63.52 452.79,0 1831.15,125.12 2058.61,-36.9 59.23,-42.18 957.24,57.4 1190.78,-42.33 90.03,-38.44 185.03,32.21 290.05,142.75l-4541.27 0z"/>
+  </g>
+  <rect class="fil3 str1" x="4660.21" y="8157.35" width="11387.66" height="7417.94"/>
+ </g>
+</svg>
